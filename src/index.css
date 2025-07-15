@@ -9,3 +9,10 @@
 body{
      font-family: "Sora", sans-serif;
 }
+
+.body-container{
+     padding: 10px 20px;
+     margin: 0 auto;
+     overflow: hidden;
+     box-sizing: border-box;
+}
